@@ -1,0 +1,6 @@
+list of technique for handling missing values
+1. mean / median / mode imputation
+2. Random sample imputation
+3. Capturing NAN values with imputation
+4. End of distribution imputation
+5. Arbitrary value imputation
